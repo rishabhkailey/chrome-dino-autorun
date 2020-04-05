@@ -12,3 +12,4 @@
 4) at end you will get average time on console, change the value of timeBeforeJump in hack.js to the average time you get
 5) try steps in `how to use` again
 ```
+![](sample.gif)
