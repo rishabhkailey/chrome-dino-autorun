@@ -7,7 +7,7 @@
 
 ```
 1) refresh the game page  
-2) copy the whole cole from toCalculateTimeBeforeJump and paste it in the console
+2) copy the whole code from toCalculateTimeBeforeJump and paste it in the console
 3) play the game normaly (try to jump only when needed and on correct time)
 4) at end you will get average time on console, change the value of timeBeforeJump in hack.js to the average time you get
 5) try steps in `how to use` again
