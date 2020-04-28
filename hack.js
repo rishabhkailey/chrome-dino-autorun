@@ -57,10 +57,11 @@ const hacks = () =>{
                 `
 
 	
-	index = fxn.indexOf('(')
+	index = fxn.indexOf(')')
 
-	fxn = fxn.substr(0, index) + ' update ' + fxn.substr(index)
-
+// 	fxn = fxn.substr(0, index) + ' update ' + fxn.substr(index)
+	fxn =   'function update()' + fxn.substr(index+1)
+	
 	index = fxn.indexOf('// Check for collisions.')
 	console.log(index)
 
